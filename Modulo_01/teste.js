@@ -81,6 +81,23 @@ dezoitoAnosEmMilisegundos && ativo;
 
 console.log(podeAcessar);
 
+//--------------------------------------------------------
+function somarTra = (numero01, numero02) {
+    return numero01, numero02;
+}
+    
+
+
+//Arrow funtion
+const somar = (numero01, numero02) => {
+    return numero01 + numero02;
+}
+
+
+
+console.log("Tradicional", somarTra (8, 3));
+somar(8, 3);
+
 
 
 
